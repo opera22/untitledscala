@@ -1,0 +1,1 @@
+This horrible project is for testing purposes only while I somehow learn OOP and FP at the same time
